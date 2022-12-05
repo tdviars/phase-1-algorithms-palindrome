@@ -1,7 +1,14 @@
-function isPalindrome(word) {
-  // Write your algorithm here
-}
 
+const name = "abba, racecar, a"
+
+function isPalindrome(word) {
+  if (name === word) {
+    return true;
+}
+  else if{
+      return false;
+  }
+}
 /* 
   Add your pseudocode here
 */
